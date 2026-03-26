@@ -11,6 +11,14 @@ How the notebook reached its working form on Databricks. Each version was run, a
 | 5a | Read the notes text file with `spark.read.csv` | Dropped: the file is free text, not CSV. |
 | 5b | Read the file in plain Python, extract `shortcode`, `vibe` and `objects` with regular expressions, build a DataFrame, left join | **Ran.** Many `vibe`/`objects` values stay null because the notes file does not cover every post. |
 
+Both errors reproduce on the synthetic data in this repository:
+
+```bash
+python examples/reproduce_errors.py
+```
+
+Output is in `output/reproduced_errors.txt`.
+
 ## Takeaways
 
 - With nested JSON, look at the schema (`df.printSchema()`) before choosing column names.
