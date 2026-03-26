@@ -1,0 +1,184 @@
+📂 POST PATH: /videos/demo_creator/31iEl2hpChY.mp4
+🔹 Shortcode: 31iEl2hpChY
+Vibe: Casual vlog
+Objects: dog, park | Speech: yes
+
+📂 POST PATH: /videos/demo_creator/2dZAkg05rK_.mp4
+🔹 Shortcode: 2dZAkg05rK_
+Vibe: Casual vlog
+Objects: laptop, coffee cup | Speech: yes
+
+📂 POST PATH: /videos/demo_creator/UMFxFkM-R5K.mp4
+🔹 Shortcode: UMFxFkM-R5K
+Vibe: Tutorial
+Objects: dog, park | Speech: yes
+
+📂 POST PATH: /videos/demo_creator/HUQPFeNBTxa.mp4
+🔹 Shortcode: HUQPFeNBTxa
+Vibe: Casual vlog
+Objects: laptop, coffee cup | Speech: yes
+
+📂 POST PATH: /videos/demo_creator/sQGMrb9h_Im.mp4
+🔹 Shortcode: sQGMrb9h_Im
+Vibe: Documentary
+Objects: guitar, microphone | Speech: yes
+
+📂 POST PATH: /videos/demo_creator/Ha6ili8GjHE.mp4
+🔹 Shortcode: Ha6ili8GjHE
+Vibe: Documentary
+Objects: laptop, coffee cup | Speech: yes
+
+📂 POST PATH: /videos/demo_creator/LGViYXjU2Jg.mp4
+🔹 Shortcode: LGViYXjU2Jg
+Vibe: Interview
+Objects: guitar, microphone | Speech: yes
+
+📂 POST PATH: /videos/demo_creator/5KXSc7Tvo-h.mp4
+🔹 Shortcode: 5KXSc7Tvo-h
+Vibe: Travel
+Objects: guitar, microphone | Speech: yes
+
+📂 POST PATH: /videos/demo_creator/ZhyiA4uoRgn.mp4
+🔹 Shortcode: ZhyiA4uoRgn
+Vibe: Documentary
+Objects: laptop, coffee cup | Speech: yes
+
+📂 POST PATH: /videos/demo_creator/BKqFYY-kv5Z.mp4
+🔹 Shortcode: BKqFYY-kv5Z
+Vibe: Travel
+Objects: dog, park | Speech: yes
+
+📂 POST PATH: /videos/demo_creator/fxIq2HZt-Pl.mp4
+🔹 Shortcode: fxIq2HZt-Pl
+Vibe: Tutorial
+Objects: laptop, coffee cup | Speech: yes
+
+📂 POST PATH: /videos/demo_creator/5SUkCnD8zRA.mp4
+🔹 Shortcode: 5SUkCnD8zRA
+Vibe: Interview
+Objects: laptop, coffee cup | Speech: yes
+
+📂 POST PATH: /videos/demo_creator/tDDb_xHKas1.mp4
+🔹 Shortcode: tDDb_xHKas1
+Vibe: Travel
+Objects: car, road | Speech: yes
+
+📂 POST PATH: /videos/demo_creator/dfrUnW5gcF_.mp4
+🔹 Shortcode: dfrUnW5gcF_
+Vibe: Tutorial
+Objects: laptop, coffee cup | Speech: yes
+
+📂 POST PATH: /videos/demo_creator/U8po_799Nks.mp4
+🔹 Shortcode: U8po_799Nks
+Vibe: Documentary
+Objects: dog, park | Speech: yes
+
+📂 POST PATH: /videos/demo_creator/5Q52ryFlwRl.mp4
+🔹 Shortcode: 5Q52ryFlwRl
+Vibe: Casual vlog
+Objects: car, road | Speech: yes
+
+📂 POST PATH: /videos/demo_creator/yBdGBLEPH1q.mp4
+🔹 Shortcode: yBdGBLEPH1q
+Vibe: Travel
+Objects: person, phone, desk | Speech: yes
+
+📂 POST PATH: /videos/demo_creator/EM9YpvujA-C.mp4
+🔹 Shortcode: EM9YpvujA-C
+Vibe: Tutorial
+Objects: guitar, microphone | Speech: yes
+
+📂 POST PATH: /videos/demo_creator/lHUvTCQCyEZ.mp4
+🔹 Shortcode: lHUvTCQCyEZ
+Vibe: Tutorial
+Objects: laptop, coffee cup | Speech: yes
+
+📂 POST PATH: /videos/demo_creator/B_LK777pzNk.mp4
+🔹 Shortcode: B_LK777pzNk
+Vibe: Travel
+Objects: laptop, coffee cup | Speech: yes
+
+📂 POST PATH: /videos/demo_creator/QlY7Zkuvqdt.mp4
+🔹 Shortcode: QlY7Zkuvqdt
+Vibe: Documentary
+Objects: person, phone, desk | Speech: yes
+
+📂 POST PATH: /videos/demo_creator/Dz-TddJ8HyS.mp4
+🔹 Shortcode: Dz-TddJ8HyS
+Vibe: Casual vlog
+Objects: car, road | Speech: yes
+
+📂 POST PATH: /videos/demo_creator/R1zTOlUcR64.mp4
+🔹 Shortcode: R1zTOlUcR64
+Vibe: Tutorial
+Objects: guitar, microphone | Speech: yes
+
+📂 POST PATH: /videos/demo_creator/Jr3J1TWDtkw.mp4
+🔹 Shortcode: Jr3J1TWDtkw
+Vibe: Interview
+Objects: dog, park | Speech: yes
+
+📂 POST PATH: /videos/demo_creator/sZfYcMMDktX.mp4
+🔹 Shortcode: sZfYcMMDktX
+Vibe: Travel
+Objects: laptop, coffee cup | Speech: yes
+
+📂 POST PATH: /videos/demo_creator/Jhx2jIclHkC.mp4
+🔹 Shortcode: Jhx2jIclHkC
+Vibe: Documentary
+Objects: car, road | Speech: yes
+
+📂 POST PATH: /videos/demo_creator/cXQLioDnkHI.mp4
+🔹 Shortcode: cXQLioDnkHI
+Vibe: Interview
+Objects: car, road | Speech: yes
+
+📂 POST PATH: /videos/demo_creator/atmUdjAWtGS.mp4
+🔹 Shortcode: atmUdjAWtGS
+Vibe: Travel
+Objects: person, phone, desk | Speech: yes
+
+📂 POST PATH: /videos/demo_creator/wIScGebcy8F.mp4
+🔹 Shortcode: wIScGebcy8F
+Vibe: Documentary
+Objects: person, phone, desk | Speech: yes
+
+📂 POST PATH: /videos/demo_creator/9a9SkpXz9w3.mp4
+🔹 Shortcode: 9a9SkpXz9w3
+Vibe: Documentary
+Objects: guitar, microphone | Speech: yes
+
+📂 POST PATH: /videos/demo_creator/lsHUqJoUD-_.mp4
+🔹 Shortcode: lsHUqJoUD-_
+Vibe: Tutorial
+Objects: laptop, coffee cup | Speech: yes
+
+📂 POST PATH: /videos/demo_creator/JngKtFI3OyV.mp4
+🔹 Shortcode: JngKtFI3OyV
+Vibe: Documentary
+Objects: guitar, microphone | Speech: yes
+
+📂 POST PATH: /videos/demo_creator/QWk8JzFalHl.mp4
+🔹 Shortcode: QWk8JzFalHl
+Vibe: Tutorial
+Objects: guitar, microphone | Speech: yes
+
+📂 POST PATH: /videos/demo_creator/VOqg6YYZYn9.mp4
+🔹 Shortcode: VOqg6YYZYn9
+Vibe: Casual vlog
+Objects: dog, park | Speech: yes
+
+📂 POST PATH: /videos/demo_creator/IRh-JUqBlIF.mp4
+🔹 Shortcode: IRh-JUqBlIF
+Vibe: Travel
+Objects: laptop, coffee cup | Speech: yes
+
+📂 POST PATH: /videos/demo_creator/RS-6ilI8ihN.mp4
+🔹 Shortcode: RS-6ilI8ihN
+Vibe: Travel
+Objects: car, road | Speech: yes
+
+📂 POST PATH: /videos/demo_creator/unknown.mp4
+🔹 Shortcode: Unknown
+Vibe: n/a
+Objects: n/a | Speech: no
