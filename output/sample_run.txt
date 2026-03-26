@@ -1,0 +1,28 @@
+posts after union:             78
+rows with null short code:     3 (dropped)
+duplicate short codes removed: 15
+rows in df_gold_layer:         60
+rows with vibe/objects:        36 of 60 (the notes file does not cover every post)
++-----------+---------+-----+--------+-----+-----------------+----------+
+|shortcode  |post_type|likes|comments|views|caption          |post_date |
++-----------+---------+-----+--------+-----+-----------------+----------+
+|PtYgjmUhBel|Image    |3324 |165     |29219|Quick tip        |2025-06-01|
+|31iEl2hpChY|Video    |1092 |8       |27865|Gear review      |2025-06-05|
+|gCfrL1spNxn|Video    |649  |100     |34593|Gear review      |2025-06-09|
+|yVmihA-2O76|Video    |943  |57      |10117|Behind the scenes|2025-06-13|
+|UMFxFkM-R5K|Sidecar  |942  |184     |29971|New desk setup   |2025-06-17|
++-----------+---------+-----+--------+-----+-----------------+----------+
+only showing top 5 rows
++-----------+---------+-----+--------+-----+-----------------+----------+------------------+-----------+
+|shortcode  |post_type|likes|comments|views|caption          |post_date |objects           |vibe       |
++-----------+---------+-----+--------+-----+-----------------+----------+------------------+-----------+
+|PtYgjmUhBel|Image    |3324 |165     |29219|Quick tip        |2025-06-01|NULL              |NULL       |
+|31iEl2hpChY|Video    |1092 |8       |27865|Gear review      |2025-06-05|dog, park         |Casual vlog|
+|gCfrL1spNxn|Video    |649  |100     |34593|Gear review      |2025-06-09|NULL              |NULL       |
+|yVmihA-2O76|Video    |943  |57      |10117|Behind the scenes|2025-06-13|NULL              |NULL       |
+|UMFxFkM-R5K|Sidecar  |942  |184     |29971|New desk setup   |2025-06-17|dog, park         |Tutorial   |
+|jp1vRt_1fjO|Video    |61   |200     |8234 |Trip notes       |2025-06-21|NULL              |NULL       |
+|RS-6ilI8ihN|Video    |2538 |32      |16501|Quick tip        |2025-06-25|car, road         |Travel     |
+|5KXSc7Tvo-h|Video    |626  |76      |34369|Trip notes       |2025-06-29|guitar, microphone|Travel     |
++-----------+---------+-----+--------+-----+-----------------+----------+------------------+-----------+
+only showing top 8 rows

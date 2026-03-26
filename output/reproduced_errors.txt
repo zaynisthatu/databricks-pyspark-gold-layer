@@ -1,0 +1,6 @@
+--- Error 1: timestamp is not a top-level column (it lives inside feedPosts)
+    UNRESOLVED_COLUMN.WITH_SUGGESTION
+    fix: explode(feedPosts) first, then read post.timestamp
+--- Error 2: plain union of the two exploded arrays (the structs have different fields)
+    INCOMPATIBLE_COLUMN_TYPE
+    fix: select the same flat columns from both arrays first, then unionByName
