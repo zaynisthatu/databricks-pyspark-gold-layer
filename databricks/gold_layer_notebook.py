@@ -1,7 +1,7 @@
 # Databricks notebook source
 # MAGIC %md
 # MAGIC # Posts: bronze -> gold (PySpark)
-# MAGIC The cell below is the version that worked on Databricks Free Edition (serverless), 26 Mar 2026.
+# MAGIC The two cells below are the versions that worked on Databricks Free Edition (serverless), 26 Mar 2026.
 # MAGIC Replace `<YOUR_EMAIL>` and the paths with your own. The data used in the original run is not published.
 
 # COMMAND ----------
@@ -50,3 +50,33 @@ df_gold_layer = (df_all_posts
 
 display(df_gold_layer)
 
+# COMMAND ----------
+
+# CELL 2: parse video_analysis_notes.txt with regex (plain Python), build df_vibe, LEFT JOIN on shortcode
+# NOTE: many vibe/objects values stay null because the notes file does not cover every short code.
+import re
+
+file_path_txt = "/Workspace/Users/<YOUR_EMAIL>/datasets/video_analysis_notes.txt"
+
+with open(file_path_txt, "r", encoding="utf-8") as f:
+    content = f.read()
+
+extracted_data = []
+blocks = content.split("\U0001F4C2 POST PATH:")
+
+for block in blocks:
+    shortcode_match = re.search(r"\U0001F539 Shortcode:\s*([a-zA-Z0-9_-]+)", block)
+    vibe_match = re.search(r"Vibe:\s*(.*?)(?:\n|\U0001F399\uFE0F|$)", block)
+    objects_match = re.search(r"Objects:\s*(.*?)\s*\|", block)
+
+    if shortcode_match and shortcode_match.group(1) != "Unknown":
+        extracted_data.append({
+            "shortcode": shortcode_match.group(1),
+            "vibe": vibe_match.group(1).strip() if vibe_match else "No Vibe",
+            "objects": objects_match.group(1).strip() if objects_match else "No Objects",
+        })
+
+df_vibe = spark.createDataFrame(extracted_data)
+df_final_master = df_gold_layer.join(df_vibe, on="shortcode", how="left")
+
+display(df_final_master)
