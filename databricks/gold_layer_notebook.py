@@ -2,7 +2,8 @@
 # MAGIC %md
 # MAGIC # Posts: bronze -> gold (PySpark)
 # MAGIC The two cells below are the versions that worked on Databricks Free Edition (serverless), 26 Mar 2026.
-# MAGIC Replace `<YOUR_EMAIL>` and the paths with your own. The data used in the original run is not published.
+# MAGIC Replace `<YOUR_EMAIL>` and the paths with your own. The data used in the original run is not published;
+# MAGIC `../gold_layer.py` runs the same logic locally on synthetic data.
 
 # COMMAND ----------
 
